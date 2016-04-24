@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="colorAccent">@color/floating_action_button_color</item>
+    </style>
+
+    <style name="Grid">
+        <item name="android:drawSelectorOnTop">true</item>
+        <item name="android:listSelector">@drawable/grid_selector</item>
+    </style>
+
+</resources>
