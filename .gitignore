@@ -1,10 +1,9 @@
-# Specifies intentionally untracked files to ignore when using Git
-# http://git-scm.com/docs/gitignore
 gradle/
 .idea/
 local.properties
 build/
-fivebyfive.iml
+five-by-five-rx.iml
+app/app.iml
 .gradle
 .idea/compiler.xml
 .idea/gradle.xml
